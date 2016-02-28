@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drone Demo.CSharp.Plugins", "Drone Demo.CSharp.Plugins.csproj", "{391FB418-866B-01FD-3A1A-2D5F4F2A39A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drone Demo.CSharp", "Drone Demo.CSharp.csproj", "{9F369778-6A02-5786-EB84-64D2EDF3E81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391FB418-866B-01FD-3A1A-2D5F4F2A39A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391FB418-866B-01FD-3A1A-2D5F4F2A39A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391FB418-866B-01FD-3A1A-2D5F4F2A39A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391FB418-866B-01FD-3A1A-2D5F4F2A39A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F369778-6A02-5786-EB84-64D2EDF3E81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F369778-6A02-5786-EB84-64D2EDF3E81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F369778-6A02-5786-EB84-64D2EDF3E81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F369778-6A02-5786-EB84-64D2EDF3E81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

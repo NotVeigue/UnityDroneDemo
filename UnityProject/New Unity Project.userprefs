@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SkyController.cs">
+    <Files>
+      <File FileName="Assets\SkydomeTest.shader" Line="1" Column="1" />
+      <File FileName="Assets\SkyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\DroneMovementController.cs" Line="1" Column="1" />
+      <File FileName="Assets\DroneCamera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
